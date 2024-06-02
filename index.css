@@ -1,0 +1,25 @@
+.box {
+    width: 100px;
+    height: 100px;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.a {
+    background-color: rgb(149, 23, 149);
+}
+
+.b {
+    margin-top: 400px;
+    background-color: rgb(23, 149, 149);
+}
+
+.c {
+    margin-top: 700px;
+    background-color: rgb(149, 149, 23);
+}
